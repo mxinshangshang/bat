@@ -1,4 +1,7 @@
-#!usr/bin/python
+#-*- encoding: utf-8 -*-
+#author : mxin
+#CreateDate : 2019-07-01
+#version 1.0
 
 import os
 import sys
